@@ -1,0 +1,22 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.tima.streaming.shared">
+    <uses-permission android:name="android.permission.FOREGROUND_SERVICE" />
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <application>
+
+        <meta-data
+            android:name="com.google.android.gms.car.application"
+            android:resource="@xml/automotive_app_desc" />
+
+
+
+
+        <receiver android:name="androidx.media.session.MediaButtonReceiver">
+            <intent-filter>
+                <action android:name="android.intent.action.MEDIA_BUTTON" />
+            </intent-filter>
+        </receiver>
+    </application>
+
+</manifest>

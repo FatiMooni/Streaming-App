@@ -1,0 +1,7 @@
+R_DEF: Internal format may change without notice
+local
+drawable music
+string allowed
+string allowed_caller_log
+xml allowed_media_browser_callers
+xml automotive_app_desc

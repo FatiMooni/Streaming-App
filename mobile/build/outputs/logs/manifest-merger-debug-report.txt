@@ -1,0 +1,218 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\fatima\AndroidStudioProjects\StreamingApp\mobile\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from C:\Users\fatima\AndroidStudioProjects\StreamingApp\mobile\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from C:\Users\fatima\AndroidStudioProjects\StreamingApp\mobile\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from C:\Users\fatima\AndroidStudioProjects\StreamingApp\mobile\src\main\AndroidManifest.xml:2:1-21:12
+MERGED from [:shared] C:\Users\fatima\AndroidStudioProjects\StreamingApp\shared\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-26:12
+MERGED from [androidx.appcompat:appcompat:1.0.2] C:\Users\fatima\.gradle\caches\transforms-2\files-2.1\5344f5aecbd589f0853d285ea99d3e47\appcompat-1.0.2\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core-ktx:1.1.0] C:\Users\fatima\.gradle\caches\transforms-2\files-2.1\8987eda768c010fae6109bcabf436297\core-ktx-1.1.0\AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\fatima\.gradle\caches\transforms-2\files-2.1\6bc2626fece78ba7f4b47b3029c7cf2e\constraintlayout-1.1.3\AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.android.exoplayer:exoplayer-ui:2.10.0] C:\Users\fatima\.gradle\caches\transforms-2\files-2.1\8f973fc81659600992f68d72fd99762e\exoplayer-ui-2.10.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.exoplayer:extension-mediasession:2.10.0] C:\Users\fatima\.gradle\caches\transforms-2\files-2.1\4b453f5727d1211aa98aceaf4505c221\extension-mediasession-2.10.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.media:media:1.1.0] C:\Users\fatima\.gradle\caches\transforms-2\files-2.1\8f5a658579ce3f436a450cf1feef6400\media-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.github.bumptech.glide:glide:4.9.0] C:\Users\fatima\.gradle\caches\transforms-2\files-2.1\6f0ea6f3fa7825b7ced7024801707d4c\jetified-glide-4.9.0\AndroidManifest.xml:2:1-12:12
+MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\fatima\.gradle\caches\transforms-2\files-2.1\96a464e88637bd98ea4d540488f59844\fragment-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] C:\Users\fatima\.gradle\caches\transforms-2\files-2.1\10684547e29ce6a8130a5015af513209\vectordrawable-animated-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\fatima\.gradle\caches\transforms-2\files-2.1\3c14dd30b79b7b381fa7434439d6cd11\legacy-support-core-ui-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\fatima\.gradle\caches\transforms-2\files-2.1\9f437f9d8300db7e265d2d177b78ba66\legacy-support-core-utils-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] C:\Users\fatima\.gradle\caches\transforms-2\files-2.1\58d68d66fd1e1b8d52122d2b34982fc5\vectordrawable-1.0.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\fatima\.gradle\caches\transforms-2\files-2.1\bbc4a443bae70ab98cfbd1ad90ef8e43\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\fatima\.gradle\caches\transforms-2\files-2.1\ef22decb3c684263ce5f6b7159edf660\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\fatima\.gradle\caches\transforms-2\files-2.1\8554d2a6f85f6904d7ef2fc413d8e491\coordinatorlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\fatima\.gradle\caches\transforms-2\files-2.1\497c77f834c01f9bd7dcd6f863d06ca4\drawerlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\fatima\.gradle\caches\transforms-2\files-2.1\db31f1822ac2b1dbf76806fae0b0f092\slidingpanelayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\fatima\.gradle\caches\transforms-2\files-2.1\a6547b65677f0c43091d23828f8f4f5b\customview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\fatima\.gradle\caches\transforms-2\files-2.1\9927c5660a0c117921c8766f71127cbc\swiperefreshlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\fatima\.gradle\caches\transforms-2\files-2.1\a109eae9647f65c353ee5de4cd7816c2\asynclayoutinflater-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.1.0] C:\Users\fatima\.gradle\caches\transforms-2\files-2.1\54e9bac0f157ffbc888c34f6ef409f8c\core-1.1.0\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\fatima\.gradle\caches\transforms-2\files-2.1\16e49467abb8fd9a2a20053ef44b7cd0\versionedparcelable-1.1.0\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\fatima\.gradle\caches\transforms-2\files-2.1\3288a1951cb4229d5d6c7463965f9704\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.exoplayer:exoplayer-hls:2.10.0] C:\Users\fatima\.gradle\caches\transforms-2\files-2.1\7a7638322436cf0ea93e43f383e6cce7\exoplayer-hls-2.10.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.exoplayer:extension-okhttp:2.10.0] C:\Users\fatima\.gradle\caches\transforms-2\files-2.1\d763dc403ffdb623d80862706686cee9\extension-okhttp-2.10.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.exoplayer:exoplayer-core:2.10.0] C:\Users\fatima\.gradle\caches\transforms-2\files-2.1\993f2d2f3effdd26225dbcc20b83bb2a\jetified-exoplayer-core-2.10.0\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\fatima\.gradle\caches\transforms-2\files-2.1\55792b5cd2c85f2f38d095d2f053a652\documentfile-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\fatima\.gradle\caches\transforms-2\files-2.1\aea0baddcbd518fa0551a515a207fa55\localbroadcastmanager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\fatima\.gradle\caches\transforms-2\files-2.1\5e7f41fb4833438287fe679bab663159\print-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Users\fatima\.gradle\caches\transforms-2\files-2.1\ca0e6a74a210391e30daeda00f84fee6\lifecycle-viewmodel-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] C:\Users\fatima\.gradle\caches\transforms-2\files-2.1\16745c755595eb38971c2818f4f48dde\jetified-gifdecoder-4.9.0\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\fatima\.gradle\caches\transforms-2\files-2.1\72b9c9b70ea7a9c2680fb19cd124f6db\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\fatima\.gradle\caches\transforms-2\files-2.1\b15f1dd5d8818d0f955c72a08ed2d806\lifecycle-livedata-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\fatima\.gradle\caches\transforms-2\files-2.1\af7d137ed29bbba72439bb68412bef4a\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\fatima\.gradle\caches\transforms-2\files-2.1\4a38587f5e107f059a8e5f930de9be4e\core-runtime-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\fatima\.gradle\caches\transforms-2\files-2.1\2cc505ebc35ff24d568666a116eb8889\lifecycle-runtime-2.0.0\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\fatima\AndroidStudioProjects\StreamingApp\mobile\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from C:\Users\fatima\AndroidStudioProjects\StreamingApp\mobile\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from C:\Users\fatima\AndroidStudioProjects\StreamingApp\mobile\src\main\AndroidManifest.xml:2:1-21:12
+	package
+		ADDED from C:\Users\fatima\AndroidStudioProjects\StreamingApp\mobile\src\main\AndroidManifest.xml:3:5-33
+		INJECTED from C:\Users\fatima\AndroidStudioProjects\StreamingApp\mobile\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\fatima\AndroidStudioProjects\StreamingApp\mobile\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\fatima\AndroidStudioProjects\StreamingApp\mobile\src\main\AndroidManifest.xml
+		ADDED from C:\Users\fatima\AndroidStudioProjects\StreamingApp\mobile\src\main\AndroidManifest.xml:2:1-21:12
+		INJECTED from C:\Users\fatima\AndroidStudioProjects\StreamingApp\mobile\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\fatima\AndroidStudioProjects\StreamingApp\mobile\src\main\AndroidManifest.xml
+		ADDED from C:\Users\fatima\AndroidStudioProjects\StreamingApp\mobile\src\main\AndroidManifest.xml:2:1-21:12
+		INJECTED from C:\Users\fatima\AndroidStudioProjects\StreamingApp\mobile\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\fatima\AndroidStudioProjects\StreamingApp\mobile\src\main\AndroidManifest.xml:2:11-69
+application
+ADDED from C:\Users\fatima\AndroidStudioProjects\StreamingApp\mobile\src\main\AndroidManifest.xml:5:5-19:19
+MERGED from [:shared] C:\Users\fatima\AndroidStudioProjects\StreamingApp\shared\build\intermediates\library_manifest\debug\AndroidManifest.xml:14:5-24:19
+MERGED from [:shared] C:\Users\fatima\AndroidStudioProjects\StreamingApp\shared\build\intermediates\library_manifest\debug\AndroidManifest.xml:14:5-24:19
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\fatima\.gradle\caches\transforms-2\files-2.1\6bc2626fece78ba7f4b47b3029c7cf2e\constraintlayout-1.1.3\AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\fatima\.gradle\caches\transforms-2\files-2.1\6bc2626fece78ba7f4b47b3029c7cf2e\constraintlayout-1.1.3\AndroidManifest.xml:9:5-20
+MERGED from [com.github.bumptech.glide:glide:4.9.0] C:\Users\fatima\.gradle\caches\transforms-2\files-2.1\6f0ea6f3fa7825b7ced7024801707d4c\jetified-glide-4.9.0\AndroidManifest.xml:10:5-20
+MERGED from [com.github.bumptech.glide:glide:4.9.0] C:\Users\fatima\.gradle\caches\transforms-2\files-2.1\6f0ea6f3fa7825b7ced7024801707d4c\jetified-glide-4.9.0\AndroidManifest.xml:10:5-20
+MERGED from [androidx.core:core:1.1.0] C:\Users\fatima\.gradle\caches\transforms-2\files-2.1\54e9bac0f157ffbc888c34f6ef409f8c\core-1.1.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.1.0] C:\Users\fatima\.gradle\caches\transforms-2\files-2.1\54e9bac0f157ffbc888c34f6ef409f8c\core-1.1.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\fatima\.gradle\caches\transforms-2\files-2.1\16e49467abb8fd9a2a20053ef44b7cd0\versionedparcelable-1.1.0\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\fatima\.gradle\caches\transforms-2\files-2.1\16e49467abb8fd9a2a20053ef44b7cd0\versionedparcelable-1.1.0\AndroidManifest.xml:24:5-25:19
+MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] C:\Users\fatima\.gradle\caches\transforms-2\files-2.1\16745c755595eb38971c2818f4f48dde\jetified-gifdecoder-4.9.0\AndroidManifest.xml:9:5-20
+MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] C:\Users\fatima\.gradle\caches\transforms-2\files-2.1\16745c755595eb38971c2818f4f48dde\jetified-gifdecoder-4.9.0\AndroidManifest.xml:9:5-20
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.1.0] C:\Users\fatima\.gradle\caches\transforms-2\files-2.1\54e9bac0f157ffbc888c34f6ef409f8c\core-1.1.0\AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from C:\Users\fatima\AndroidStudioProjects\StreamingApp\mobile\src\main\AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from C:\Users\fatima\AndroidStudioProjects\StreamingApp\mobile\src\main\AndroidManifest.xml:8:9-41
+	android:roundIcon
+		ADDED from C:\Users\fatima\AndroidStudioProjects\StreamingApp\mobile\src\main\AndroidManifest.xml:9:9-54
+	android:icon
+		ADDED from C:\Users\fatima\AndroidStudioProjects\StreamingApp\mobile\src\main\AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from C:\Users\fatima\AndroidStudioProjects\StreamingApp\mobile\src\main\AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from C:\Users\fatima\AndroidStudioProjects\StreamingApp\mobile\src\main\AndroidManifest.xml:11:9-40
+activity#com.tima.streaming.MainActivity
+ADDED from C:\Users\fatima\AndroidStudioProjects\StreamingApp\mobile\src\main\AndroidManifest.xml:12:9-18:20
+	android:name
+		ADDED from C:\Users\fatima\AndroidStudioProjects\StreamingApp\mobile\src\main\AndroidManifest.xml:12:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\fatima\AndroidStudioProjects\StreamingApp\mobile\src\main\AndroidManifest.xml:13:13-17:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\fatima\AndroidStudioProjects\StreamingApp\mobile\src\main\AndroidManifest.xml:14:17-69
+	android:name
+		ADDED from C:\Users\fatima\AndroidStudioProjects\StreamingApp\mobile\src\main\AndroidManifest.xml:14:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\fatima\AndroidStudioProjects\StreamingApp\mobile\src\main\AndroidManifest.xml:16:17-77
+	android:name
+		ADDED from C:\Users\fatima\AndroidStudioProjects\StreamingApp\mobile\src\main\AndroidManifest.xml:16:27-74
+uses-sdk
+INJECTED from C:\Users\fatima\AndroidStudioProjects\StreamingApp\mobile\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\fatima\AndroidStudioProjects\StreamingApp\mobile\src\main\AndroidManifest.xml
+INJECTED from C:\Users\fatima\AndroidStudioProjects\StreamingApp\mobile\src\main\AndroidManifest.xml
+MERGED from [:shared] C:\Users\fatima\AndroidStudioProjects\StreamingApp\shared\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:shared] C:\Users\fatima\AndroidStudioProjects\StreamingApp\shared\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.appcompat:appcompat:1.0.2] C:\Users\fatima\.gradle\caches\transforms-2\files-2.1\5344f5aecbd589f0853d285ea99d3e47\appcompat-1.0.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.0.2] C:\Users\fatima\.gradle\caches\transforms-2\files-2.1\5344f5aecbd589f0853d285ea99d3e47\appcompat-1.0.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core-ktx:1.1.0] C:\Users\fatima\.gradle\caches\transforms-2\files-2.1\8987eda768c010fae6109bcabf436297\core-ktx-1.1.0\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.core:core-ktx:1.1.0] C:\Users\fatima\.gradle\caches\transforms-2\files-2.1\8987eda768c010fae6109bcabf436297\core-ktx-1.1.0\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\fatima\.gradle\caches\transforms-2\files-2.1\6bc2626fece78ba7f4b47b3029c7cf2e\constraintlayout-1.1.3\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\fatima\.gradle\caches\transforms-2\files-2.1\6bc2626fece78ba7f4b47b3029c7cf2e\constraintlayout-1.1.3\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.exoplayer:exoplayer-ui:2.10.0] C:\Users\fatima\.gradle\caches\transforms-2\files-2.1\8f973fc81659600992f68d72fd99762e\exoplayer-ui-2.10.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-ui:2.10.0] C:\Users\fatima\.gradle\caches\transforms-2\files-2.1\8f973fc81659600992f68d72fd99762e\exoplayer-ui-2.10.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:extension-mediasession:2.10.0] C:\Users\fatima\.gradle\caches\transforms-2\files-2.1\4b453f5727d1211aa98aceaf4505c221\extension-mediasession-2.10.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:extension-mediasession:2.10.0] C:\Users\fatima\.gradle\caches\transforms-2\files-2.1\4b453f5727d1211aa98aceaf4505c221\extension-mediasession-2.10.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.media:media:1.1.0] C:\Users\fatima\.gradle\caches\transforms-2\files-2.1\8f5a658579ce3f436a450cf1feef6400\media-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.media:media:1.1.0] C:\Users\fatima\.gradle\caches\transforms-2\files-2.1\8f5a658579ce3f436a450cf1feef6400\media-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.github.bumptech.glide:glide:4.9.0] C:\Users\fatima\.gradle\caches\transforms-2\files-2.1\6f0ea6f3fa7825b7ced7024801707d4c\jetified-glide-4.9.0\AndroidManifest.xml:6:5-8:41
+MERGED from [com.github.bumptech.glide:glide:4.9.0] C:\Users\fatima\.gradle\caches\transforms-2\files-2.1\6f0ea6f3fa7825b7ced7024801707d4c\jetified-glide-4.9.0\AndroidManifest.xml:6:5-8:41
+MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\fatima\.gradle\caches\transforms-2\files-2.1\96a464e88637bd98ea4d540488f59844\fragment-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\fatima\.gradle\caches\transforms-2\files-2.1\96a464e88637bd98ea4d540488f59844\fragment-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] C:\Users\fatima\.gradle\caches\transforms-2\files-2.1\10684547e29ce6a8130a5015af513209\vectordrawable-animated-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] C:\Users\fatima\.gradle\caches\transforms-2\files-2.1\10684547e29ce6a8130a5015af513209\vectordrawable-animated-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\fatima\.gradle\caches\transforms-2\files-2.1\3c14dd30b79b7b381fa7434439d6cd11\legacy-support-core-ui-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\fatima\.gradle\caches\transforms-2\files-2.1\3c14dd30b79b7b381fa7434439d6cd11\legacy-support-core-ui-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\fatima\.gradle\caches\transforms-2\files-2.1\9f437f9d8300db7e265d2d177b78ba66\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\fatima\.gradle\caches\transforms-2\files-2.1\9f437f9d8300db7e265d2d177b78ba66\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] C:\Users\fatima\.gradle\caches\transforms-2\files-2.1\58d68d66fd1e1b8d52122d2b34982fc5\vectordrawable-1.0.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] C:\Users\fatima\.gradle\caches\transforms-2\files-2.1\58d68d66fd1e1b8d52122d2b34982fc5\vectordrawable-1.0.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\fatima\.gradle\caches\transforms-2\files-2.1\bbc4a443bae70ab98cfbd1ad90ef8e43\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\fatima\.gradle\caches\transforms-2\files-2.1\bbc4a443bae70ab98cfbd1ad90ef8e43\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\fatima\.gradle\caches\transforms-2\files-2.1\ef22decb3c684263ce5f6b7159edf660\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\fatima\.gradle\caches\transforms-2\files-2.1\ef22decb3c684263ce5f6b7159edf660\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\fatima\.gradle\caches\transforms-2\files-2.1\8554d2a6f85f6904d7ef2fc413d8e491\coordinatorlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\fatima\.gradle\caches\transforms-2\files-2.1\8554d2a6f85f6904d7ef2fc413d8e491\coordinatorlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\fatima\.gradle\caches\transforms-2\files-2.1\497c77f834c01f9bd7dcd6f863d06ca4\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\fatima\.gradle\caches\transforms-2\files-2.1\497c77f834c01f9bd7dcd6f863d06ca4\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\fatima\.gradle\caches\transforms-2\files-2.1\db31f1822ac2b1dbf76806fae0b0f092\slidingpanelayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\fatima\.gradle\caches\transforms-2\files-2.1\db31f1822ac2b1dbf76806fae0b0f092\slidingpanelayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\fatima\.gradle\caches\transforms-2\files-2.1\a6547b65677f0c43091d23828f8f4f5b\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\fatima\.gradle\caches\transforms-2\files-2.1\a6547b65677f0c43091d23828f8f4f5b\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\fatima\.gradle\caches\transforms-2\files-2.1\9927c5660a0c117921c8766f71127cbc\swiperefreshlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\fatima\.gradle\caches\transforms-2\files-2.1\9927c5660a0c117921c8766f71127cbc\swiperefreshlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\fatima\.gradle\caches\transforms-2\files-2.1\a109eae9647f65c353ee5de4cd7816c2\asynclayoutinflater-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\fatima\.gradle\caches\transforms-2\files-2.1\a109eae9647f65c353ee5de4cd7816c2\asynclayoutinflater-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.1.0] C:\Users\fatima\.gradle\caches\transforms-2\files-2.1\54e9bac0f157ffbc888c34f6ef409f8c\core-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.1.0] C:\Users\fatima\.gradle\caches\transforms-2\files-2.1\54e9bac0f157ffbc888c34f6ef409f8c\core-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\fatima\.gradle\caches\transforms-2\files-2.1\16e49467abb8fd9a2a20053ef44b7cd0\versionedparcelable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\fatima\.gradle\caches\transforms-2\files-2.1\16e49467abb8fd9a2a20053ef44b7cd0\versionedparcelable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\fatima\.gradle\caches\transforms-2\files-2.1\3288a1951cb4229d5d6c7463965f9704\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\fatima\.gradle\caches\transforms-2\files-2.1\3288a1951cb4229d5d6c7463965f9704\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.exoplayer:exoplayer-hls:2.10.0] C:\Users\fatima\.gradle\caches\transforms-2\files-2.1\7a7638322436cf0ea93e43f383e6cce7\exoplayer-hls-2.10.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-hls:2.10.0] C:\Users\fatima\.gradle\caches\transforms-2\files-2.1\7a7638322436cf0ea93e43f383e6cce7\exoplayer-hls-2.10.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:extension-okhttp:2.10.0] C:\Users\fatima\.gradle\caches\transforms-2\files-2.1\d763dc403ffdb623d80862706686cee9\extension-okhttp-2.10.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:extension-okhttp:2.10.0] C:\Users\fatima\.gradle\caches\transforms-2\files-2.1\d763dc403ffdb623d80862706686cee9\extension-okhttp-2.10.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-core:2.10.0] C:\Users\fatima\.gradle\caches\transforms-2\files-2.1\993f2d2f3effdd26225dbcc20b83bb2a\jetified-exoplayer-core-2.10.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-core:2.10.0] C:\Users\fatima\.gradle\caches\transforms-2\files-2.1\993f2d2f3effdd26225dbcc20b83bb2a\jetified-exoplayer-core-2.10.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\fatima\.gradle\caches\transforms-2\files-2.1\55792b5cd2c85f2f38d095d2f053a652\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\fatima\.gradle\caches\transforms-2\files-2.1\55792b5cd2c85f2f38d095d2f053a652\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\fatima\.gradle\caches\transforms-2\files-2.1\aea0baddcbd518fa0551a515a207fa55\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\fatima\.gradle\caches\transforms-2\files-2.1\aea0baddcbd518fa0551a515a207fa55\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\fatima\.gradle\caches\transforms-2\files-2.1\5e7f41fb4833438287fe679bab663159\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\fatima\.gradle\caches\transforms-2\files-2.1\5e7f41fb4833438287fe679bab663159\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Users\fatima\.gradle\caches\transforms-2\files-2.1\ca0e6a74a210391e30daeda00f84fee6\lifecycle-viewmodel-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Users\fatima\.gradle\caches\transforms-2\files-2.1\ca0e6a74a210391e30daeda00f84fee6\lifecycle-viewmodel-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] C:\Users\fatima\.gradle\caches\transforms-2\files-2.1\16745c755595eb38971c2818f4f48dde\jetified-gifdecoder-4.9.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] C:\Users\fatima\.gradle\caches\transforms-2\files-2.1\16745c755595eb38971c2818f4f48dde\jetified-gifdecoder-4.9.0\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\fatima\.gradle\caches\transforms-2\files-2.1\72b9c9b70ea7a9c2680fb19cd124f6db\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\fatima\.gradle\caches\transforms-2\files-2.1\72b9c9b70ea7a9c2680fb19cd124f6db\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\fatima\.gradle\caches\transforms-2\files-2.1\b15f1dd5d8818d0f955c72a08ed2d806\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\fatima\.gradle\caches\transforms-2\files-2.1\b15f1dd5d8818d0f955c72a08ed2d806\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\fatima\.gradle\caches\transforms-2\files-2.1\af7d137ed29bbba72439bb68412bef4a\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\fatima\.gradle\caches\transforms-2\files-2.1\af7d137ed29bbba72439bb68412bef4a\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\fatima\.gradle\caches\transforms-2\files-2.1\4a38587f5e107f059a8e5f930de9be4e\core-runtime-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\fatima\.gradle\caches\transforms-2\files-2.1\4a38587f5e107f059a8e5f930de9be4e\core-runtime-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\fatima\.gradle\caches\transforms-2\files-2.1\2cc505ebc35ff24d568666a116eb8889\lifecycle-runtime-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\fatima\.gradle\caches\transforms-2\files-2.1\2cc505ebc35ff24d568666a116eb8889\lifecycle-runtime-2.0.0\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\fatima\AndroidStudioProjects\StreamingApp\mobile\src\main\AndroidManifest.xml
+INJECTED from C:\Users\fatima\AndroidStudioProjects\StreamingApp\mobile\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\fatima\AndroidStudioProjects\StreamingApp\mobile\src\main\AndroidManifest.xml
+		ADDED from C:\Users\fatima\AndroidStudioProjects\StreamingApp\mobile\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\fatima\AndroidStudioProjects\StreamingApp\mobile\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\fatima\AndroidStudioProjects\StreamingApp\mobile\src\main\AndroidManifest.xml
+		ADDED from C:\Users\fatima\AndroidStudioProjects\StreamingApp\mobile\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\fatima\AndroidStudioProjects\StreamingApp\mobile\src\main\AndroidManifest.xml
+uses-permission#android.permission.FOREGROUND_SERVICE
+ADDED from [:shared] C:\Users\fatima\AndroidStudioProjects\StreamingApp\shared\build\intermediates\library_manifest\debug\AndroidManifest.xml:11:5-77
+	android:name
+		ADDED from [:shared] C:\Users\fatima\AndroidStudioProjects\StreamingApp\shared\build\intermediates\library_manifest\debug\AndroidManifest.xml:11:22-74
+uses-permission#android.permission.INTERNET
+ADDED from [:shared] C:\Users\fatima\AndroidStudioProjects\StreamingApp\shared\build\intermediates\library_manifest\debug\AndroidManifest.xml:12:5-67
+	android:name
+		ADDED from [:shared] C:\Users\fatima\AndroidStudioProjects\StreamingApp\shared\build\intermediates\library_manifest\debug\AndroidManifest.xml:12:22-64
+meta-data#com.google.android.gms.car.application
+ADDED from [:shared] C:\Users\fatima\AndroidStudioProjects\StreamingApp\shared\build\intermediates\library_manifest\debug\AndroidManifest.xml:15:9-17:59
+	android:resource
+		ADDED from [:shared] C:\Users\fatima\AndroidStudioProjects\StreamingApp\shared\build\intermediates\library_manifest\debug\AndroidManifest.xml:17:13-56
+	android:name
+		ADDED from [:shared] C:\Users\fatima\AndroidStudioProjects\StreamingApp\shared\build\intermediates\library_manifest\debug\AndroidManifest.xml:16:13-66
+receiver#androidx.media.session.MediaButtonReceiver
+ADDED from [:shared] C:\Users\fatima\AndroidStudioProjects\StreamingApp\shared\build\intermediates\library_manifest\debug\AndroidManifest.xml:19:9-23:20
+	android:name
+		ADDED from [:shared] C:\Users\fatima\AndroidStudioProjects\StreamingApp\shared\build\intermediates\library_manifest\debug\AndroidManifest.xml:19:19-76
+intent-filter#action:name:android.intent.action.MEDIA_BUTTON
+ADDED from [:shared] C:\Users\fatima\AndroidStudioProjects\StreamingApp\shared\build\intermediates\library_manifest\debug\AndroidManifest.xml:20:13-22:29
+action#android.intent.action.MEDIA_BUTTON
+ADDED from [:shared] C:\Users\fatima\AndroidStudioProjects\StreamingApp\shared\build\intermediates\library_manifest\debug\AndroidManifest.xml:21:17-77
+	android:name
+		ADDED from [:shared] C:\Users\fatima\AndroidStudioProjects\StreamingApp\shared\build\intermediates\library_manifest\debug\AndroidManifest.xml:21:25-74
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.google.android.exoplayer:exoplayer-core:2.10.0] C:\Users\fatima\.gradle\caches\transforms-2\files-2.1\993f2d2f3effdd26225dbcc20b83bb2a\jetified-exoplayer-core-2.10.0\AndroidManifest.xml:24:5-79
+	android:name
+		ADDED from [com.google.android.exoplayer:exoplayer-core:2.10.0] C:\Users\fatima\.gradle\caches\transforms-2\files-2.1\993f2d2f3effdd26225dbcc20b83bb2a\jetified-exoplayer-core-2.10.0\AndroidManifest.xml:24:22-76

@@ -1,0 +1,74 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.tima.streaming"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="28"
+8-->C:\Users\fatima\AndroidStudioProjects\StreamingApp\mobile\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="29" />
+9-->C:\Users\fatima\AndroidStudioProjects\StreamingApp\mobile\src\main\AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.FOREGROUND_SERVICE" />
+11-->[:shared] C:\Users\fatima\AndroidStudioProjects\StreamingApp\shared\build\intermediates\library_manifest\debug\AndroidManifest.xml:11:5-77
+11-->[:shared] C:\Users\fatima\AndroidStudioProjects\StreamingApp\shared\build\intermediates\library_manifest\debug\AndroidManifest.xml:11:22-74
+12    <uses-permission android:name="android.permission.INTERNET" />
+12-->[:shared] C:\Users\fatima\AndroidStudioProjects\StreamingApp\shared\build\intermediates\library_manifest\debug\AndroidManifest.xml:12:5-67
+12-->[:shared] C:\Users\fatima\AndroidStudioProjects\StreamingApp\shared\build\intermediates\library_manifest\debug\AndroidManifest.xml:12:22-64
+13    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+13-->[com.google.android.exoplayer:exoplayer-core:2.10.0] C:\Users\fatima\.gradle\caches\transforms-2\files-2.1\993f2d2f3effdd26225dbcc20b83bb2a\jetified-exoplayer-core-2.10.0\AndroidManifest.xml:24:5-79
+13-->[com.google.android.exoplayer:exoplayer-core:2.10.0] C:\Users\fatima\.gradle\caches\transforms-2\files-2.1\993f2d2f3effdd26225dbcc20b83bb2a\jetified-exoplayer-core-2.10.0\AndroidManifest.xml:24:22-76
+14
+15    <application
+15-->C:\Users\fatima\AndroidStudioProjects\StreamingApp\mobile\src\main\AndroidManifest.xml:5:5-19:19
+16        android:allowBackup="true"
+16-->C:\Users\fatima\AndroidStudioProjects\StreamingApp\mobile\src\main\AndroidManifest.xml:6:9-35
+17        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+17-->[androidx.core:core:1.1.0] C:\Users\fatima\.gradle\caches\transforms-2\files-2.1\54e9bac0f157ffbc888c34f6ef409f8c\core-1.1.0\AndroidManifest.xml:24:18-86
+18        android:debuggable="true"
+19        android:icon="@mipmap/ic_launcher"
+19-->C:\Users\fatima\AndroidStudioProjects\StreamingApp\mobile\src\main\AndroidManifest.xml:7:9-43
+20        android:label="@string/app_name"
+20-->C:\Users\fatima\AndroidStudioProjects\StreamingApp\mobile\src\main\AndroidManifest.xml:8:9-41
+21        android:roundIcon="@mipmap/ic_launcher_round"
+21-->C:\Users\fatima\AndroidStudioProjects\StreamingApp\mobile\src\main\AndroidManifest.xml:9:9-54
+22        android:supportsRtl="true"
+22-->C:\Users\fatima\AndroidStudioProjects\StreamingApp\mobile\src\main\AndroidManifest.xml:10:9-35
+23        android:theme="@style/AppTheme" >
+23-->C:\Users\fatima\AndroidStudioProjects\StreamingApp\mobile\src\main\AndroidManifest.xml:11:9-40
+24        <activity android:name="com.tima.streaming.MainActivity" >
+24-->C:\Users\fatima\AndroidStudioProjects\StreamingApp\mobile\src\main\AndroidManifest.xml:12:9-18:20
+24-->C:\Users\fatima\AndroidStudioProjects\StreamingApp\mobile\src\main\AndroidManifest.xml:12:19-47
+25            <intent-filter>
+25-->C:\Users\fatima\AndroidStudioProjects\StreamingApp\mobile\src\main\AndroidManifest.xml:13:13-17:29
+26                <action android:name="android.intent.action.MAIN" />
+26-->C:\Users\fatima\AndroidStudioProjects\StreamingApp\mobile\src\main\AndroidManifest.xml:14:17-69
+26-->C:\Users\fatima\AndroidStudioProjects\StreamingApp\mobile\src\main\AndroidManifest.xml:14:25-66
+27
+28                <category android:name="android.intent.category.LAUNCHER" />
+28-->C:\Users\fatima\AndroidStudioProjects\StreamingApp\mobile\src\main\AndroidManifest.xml:16:17-77
+28-->C:\Users\fatima\AndroidStudioProjects\StreamingApp\mobile\src\main\AndroidManifest.xml:16:27-74
+29            </intent-filter>
+30        </activity>
+31
+32        <meta-data
+32-->[:shared] C:\Users\fatima\AndroidStudioProjects\StreamingApp\shared\build\intermediates\library_manifest\debug\AndroidManifest.xml:15:9-17:59
+33            android:name="com.google.android.gms.car.application"
+33-->[:shared] C:\Users\fatima\AndroidStudioProjects\StreamingApp\shared\build\intermediates\library_manifest\debug\AndroidManifest.xml:16:13-66
+34            android:resource="@xml/automotive_app_desc" />
+34-->[:shared] C:\Users\fatima\AndroidStudioProjects\StreamingApp\shared\build\intermediates\library_manifest\debug\AndroidManifest.xml:17:13-56
+35
+36        <receiver android:name="androidx.media.session.MediaButtonReceiver" >
+36-->[:shared] C:\Users\fatima\AndroidStudioProjects\StreamingApp\shared\build\intermediates\library_manifest\debug\AndroidManifest.xml:19:9-23:20
+36-->[:shared] C:\Users\fatima\AndroidStudioProjects\StreamingApp\shared\build\intermediates\library_manifest\debug\AndroidManifest.xml:19:19-76
+37            <intent-filter>
+37-->[:shared] C:\Users\fatima\AndroidStudioProjects\StreamingApp\shared\build\intermediates\library_manifest\debug\AndroidManifest.xml:20:13-22:29
+38                <action android:name="android.intent.action.MEDIA_BUTTON" />
+38-->[:shared] C:\Users\fatima\AndroidStudioProjects\StreamingApp\shared\build\intermediates\library_manifest\debug\AndroidManifest.xml:21:17-77
+38-->[:shared] C:\Users\fatima\AndroidStudioProjects\StreamingApp\shared\build\intermediates\library_manifest\debug\AndroidManifest.xml:21:25-74
+39            </intent-filter>
+40        </receiver>
+41    </application>
+42
+43</manifest>
